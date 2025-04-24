@@ -4,6 +4,7 @@
 //
 int main(){
     int result = 4 + 5 * 2 - 6 / 3 +10 % 4;
-    printf("%d", result);
+//    printf("%d", result);
+    printf("result = %d", result);
     return 0;
 }
